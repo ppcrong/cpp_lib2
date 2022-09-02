@@ -11,6 +11,6 @@ FuncMinus::~FuncMinus()
 
 int32_t FuncMinus::minus(int32_t a, int32_t b)
 {
-    std::cout << "(Hey! I add 123 to the result...) ";
-    return a - b + 123;
+    std::cout << "(FuncMinus is lib2-v6.0...) ";
+    return a - b;
 }
